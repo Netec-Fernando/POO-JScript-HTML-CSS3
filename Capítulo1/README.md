@@ -35,6 +35,8 @@ Guarda el archivo con la extensión .html, por ejemplo, index.html.
 
 Escribe el siguiente código en tu archivo index.html:
 
+### HTML
+```
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -50,7 +52,7 @@ Escribe el siguiente código en tu archivo index.html:
     <script src="script.js"></script>
 </body>
 </html>
-Usa el código con precaución.
+```
 
 Explicación:
 
