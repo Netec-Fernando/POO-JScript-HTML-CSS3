@@ -12,6 +12,8 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 
 ![diagrama1](../images/img1.png)
 
+![image](https://github.com/user-attachments/assets/6cb83a41-ca28-46ff-ab36-b67790e5ab93)
+
 ## Duración aproximada:
 - xx minutos.
 
