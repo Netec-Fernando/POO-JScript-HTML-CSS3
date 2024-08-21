@@ -10,8 +10,6 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img1.png)
-
 ![image](https://github.com/user-attachments/assets/6cb83a41-ca28-46ff-ab36-b67790e5ab93)
 
 ## Duración aproximada:
