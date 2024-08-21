@@ -10,11 +10,6 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-[imagen_1.](https://github.com/Netec-Fernando/POO-JScript-HTML-CSS3/blob/main/Cap%C3%ADtulo1/imagen_1.png?raw=true)
-
-![imagen] (../imagen_1.png)
-
-![imagen resultado](../images/img3.png)
 ![alt text](imagen_1.png)
 
 ## Duración aproximada:
