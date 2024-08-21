@@ -54,6 +54,7 @@ Escribe el siguiente código en tu archivo index.html:
 </html>
 ```
 
+```
 Explicación:
 
 <!DOCTYPE html>: Declara el tipo de documento.
@@ -63,6 +64,8 @@ Explicación:
 <title>: Define el título que aparece en la pestaña del navegador.
 <link>: Enlaza el archivo CSS styles.css.
 <script>: Enlaza el archivo JavaScript script.js.
+```
+
 4. Crea los archivos CSS y JavaScript:
 
 Crea dos archivos nuevos en la misma carpeta que index.html:
