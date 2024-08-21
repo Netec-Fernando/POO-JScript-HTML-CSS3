@@ -1,4 +1,4 @@
-# Creando una Pagina Web con HTML5, CSS y JS
+# Creando una Página Web con HTML5, CSS y JS
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
