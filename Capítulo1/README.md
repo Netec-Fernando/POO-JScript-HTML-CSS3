@@ -27,11 +27,11 @@ Agregar una tabla con la información que pueda requerir el participante durante
 
 Paso 1. Abre Visual Studio Code y crea un nuevo archivo:
 
-Abre tu editor de código y crea un nuevo archivo con la extensión .html, por ejemplo, index.html.
+    Abre tu editor de código y crea un nuevo archivo con la extensión .html, por ejemplo, index.html.
 
 Paso 2. Estructura básica HTML:
 
-Escribe el siguiente código en tu archivo index.html:
+    Escribe el siguiente código en tu archivo index.html:
 
 ### HTML
 ```
@@ -66,13 +66,13 @@ Explicación:
 
 Paso 3. Crea los archivos CSS y JavaScript:
 
-Crea dos archivos nuevos en la misma carpeta que index.html:
-styles.css para el estilo.
-script.js para el código JavaScript.
+    Crea dos archivos nuevos en la misma carpeta que index.html:
+    styles.css para el estilo.
+    script.js para el código JavaScript.
 
 Paso 4. Estiliza con CSS:
 
-En el archivo styles.css, agrega reglas CSS para cambiar la apariencia de los elementos:
+    En el archivo styles.css, agrega reglas CSS para cambiar la apariencia de los elementos:
 
 ### CSS
 ```
@@ -88,7 +88,7 @@ h1 {
 
 Paso 5. Agrega interactividad con JavaScript:
 
-En el archivo script.js, escribe código JavaScript para agregar funcionalidad. Por ejemplo, puedes cambiar el color del texto al hacer clic en él:
+    En el archivo script.js, escribe código JavaScript para agregar funcionalidad. Por ejemplo, puedes cambiar el color del texto al hacer clic en él:
 
 ### JavaScript
 
@@ -102,7 +102,7 @@ h1.addEventListener('click', () => {
 
 Paso 6. Abre el archivo en tu navegador:
 
-Haz doble clic en index.html para abrirlo en tu navegador.
+    Haz doble clic en index.html para abrirlo en tu navegador.
 
 
 ### Resultado esperado
