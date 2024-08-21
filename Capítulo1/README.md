@@ -25,13 +25,11 @@ Agregar una tabla con la información que pueda requerir el participante durante
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 ### Tarea 1. Descripción de la tarea a realizar.
 
-Paso 1. Abre Visual Studio Code.
+Paso 1. Abre Visual Studio Code y crea un nuevo archivo:
 
-2. Crea un nuevo archivo:
+Abre tu editor de código y crea un nuevo archivo con la extensión .html, por ejemplo, index.html.
 
-Abre tu editor de código y crea un nuevo archivo.
-Guarda el archivo con la extensión .html, por ejemplo, index.html.
-3. Estructura básica HTML:
+Paso 2. Estructura básica HTML:
 
 Escribe el siguiente código en tu archivo index.html:
 
@@ -66,15 +64,18 @@ Explicación:
 <script>: Enlaza el archivo JavaScript script.js.
 ```
 
-4. Crea los archivos CSS y JavaScript:
+Paso 3. Crea los archivos CSS y JavaScript:
 
 Crea dos archivos nuevos en la misma carpeta que index.html:
 styles.css para el estilo.
 script.js para el código JavaScript.
-5. Estiliza con CSS:
+
+Paso 4. Estiliza con CSS:
 
 En el archivo styles.css, agrega reglas CSS para cambiar la apariencia de los elementos:
-CSS
+
+### CSS
+```
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -83,38 +84,26 @@ body {
 h1 {
     color: blue;
 }
-Usa el código con precaución.
+```
 
-6. Agrega interactividad con JavaScript:
+Paso 5. Agrega interactividad con JavaScript:
 
 En el archivo script.js, escribe código JavaScript para agregar funcionalidad. Por ejemplo, puedes cambiar el color del texto al hacer clic en él:
-JavaScript
+
+### JavaScript
+
+```
 const h1 = document.querySelector('h1');
 
 h1.addEventListener('click', () => {
     h1.style.color = 'red';
 });
-Usa el código con precaución.
+```
 
-7. Abre el archivo en un navegador:
+Paso 6. Abre el archivo en tu navegador:
 
 Haz doble clic en index.html para abrirlo en tu navegador.
 
-
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-![alt text](image.png)
-
-Paso 3. <!-- Añadir instrucción -->
-
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
 
 ### Resultado esperado
 En esta sección, se debe mostrar el resultado esperado de nuestro laboratorio
