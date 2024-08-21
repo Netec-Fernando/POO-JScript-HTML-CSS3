@@ -1,10 +1,10 @@
-# Nombre del laboratorio 
+# Instalación del software de Desarrollo Web
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+
+- Conocer que herramientas se utilizan en el desarrollo web
+- Aprender a descargar e instalar las herramientas de desarrollo web.
 
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
