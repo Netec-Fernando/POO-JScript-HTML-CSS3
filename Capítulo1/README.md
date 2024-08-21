@@ -67,6 +67,7 @@ Explicación:
 Paso 3. Crea los archivos CSS y JavaScript:
 
     Crea dos archivos nuevos en la misma carpeta que index.html:
+    
     styles.css para el estilo.
     script.js para el código JavaScript.
 
