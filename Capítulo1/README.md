@@ -13,7 +13,7 @@ Al realizar la práctica podrás ver en el navegador la siguiente imagen.
 ![imagen](imagen_1.png)
 
 ## Duración aproximada:
-- xx minutos.
+- 30 minutos.
 
 ## Tabla de ayuda:
 | Requisito | Descripcion|
