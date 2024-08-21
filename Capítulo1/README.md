@@ -10,7 +10,7 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![alt text](imagen_1.png)
+![imagen](imagen_1.png)
 
 ## Duración aproximada:
 - xx minutos.
@@ -106,5 +106,5 @@ Paso 6. Abre el archivo en tu navegador:
 
 
 ### Resultado esperado
-En esta sección, se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+![imagen](imagen_2.png)
