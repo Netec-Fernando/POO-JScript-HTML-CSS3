@@ -12,7 +12,7 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 
 [imagen_1.](https://github.com/Netec-Fernando/POO-JScript-HTML-CSS3/blob/main/Cap%C3%ADtulo1/imagen_1.png?raw=true)
 
-![imagen] (Capítulo1/imagen_1.png)
+![imagen] (./imagen_1.png)
 
 ## Duración aproximada:
 - xx minutos.
