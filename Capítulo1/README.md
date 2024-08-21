@@ -8,7 +8,7 @@ Al finalizar la práctica, serás capaz de:
 - Agregar código JavaScript 
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Al realizar la práctica podrás ver en el navegador la siguiente imagen. 
 
 ![imagen](imagen_1.png)
 
