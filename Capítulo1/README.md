@@ -107,9 +107,11 @@ Paso 6. Abre el archivo en tu navegador:
 
 
 ### Resultado esperado
+
 Despliegue de la pagina index.html de manera inicial:
 
 ![imagen](saludo_inicial.png)
 
-Despliegue de la pagina index.html después de dar clic en el mensaje.
+Despliegue de la pagina index.html después de dar clic en el mensaje "¡Hola mundo.!"
+
 ![imagen](saludo_final.png)
