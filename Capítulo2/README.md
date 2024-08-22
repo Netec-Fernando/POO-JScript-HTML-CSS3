@@ -56,11 +56,9 @@ Paso 4. Instalar Typescript.
 
         Usando npm
             TypeScript está disponible como un package en el registro npm como "typescript".
-        
         Si estás usando Node, la forma de instalarlo es la siguiente:     
             npm install typescript --save-dev   
-        
-        Puedes hacer una instalación global con el commando:             
+       Puedes hacer una instalación global con el commando:             
             npm install -g typescript
 
 ![image](https://github.com/user-attachments/assets/539e94f1-2c18-491f-b567-487f681aa548)
