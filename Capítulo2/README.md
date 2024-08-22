@@ -1,4 +1,4 @@
-# Instalación del software de Desarrollo Web
+# Instalación del Software de Desarrollo Web
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
@@ -7,7 +7,7 @@ Al finalizar la práctica, serás capaz de:
 - Aprender a descargar e instalar las herramientas de desarrollo web.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Herramientas para el Desarrollo Web 
 
 ![imagen](Herramientas.png)
 
