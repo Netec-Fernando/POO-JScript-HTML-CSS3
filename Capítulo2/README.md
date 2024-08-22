@@ -39,8 +39,8 @@ Herramientas para el Desarrollo Web
 
 
 ### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Descargar desde https://www.google.es/chrome/browser/desktop/
-        e instalar Google Chrome última versión.
+Paso 1. Descargar desde https://www.google.es/chrome/browser/desktop/ el el instalador de Google Chrome
+        e instalar la última versión.
 
 Paso 2. Descargar  instalar Visual Studio Code última versión.
 
