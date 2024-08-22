@@ -46,7 +46,7 @@ Paso 2. Estructura básica HTML:
 </head>
 <body>
     <h1>¡Hola, mundo!</h1>
-    <p>Este es mi primer párrafo.</p>
+    <p>Esta es mi primera página Web.</p>
     <script src="script.js"></script>
 </body>
 </html>
