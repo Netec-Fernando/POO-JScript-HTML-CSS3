@@ -46,10 +46,10 @@ Paso 2. Descargar desde https://code.visualstudio.com/ Visual Studio Code e inst
 
 Paso 3. Descargar desde https://nodejs.org/es/ Node.js e instalar la última versión.
 
-        Ir al sitio https://nodejs.org/es/
-        Elegir Windows Installer (.msi) 64 bits. 
-        Descargar la versión recomendada para la mayoría de las instalaciones.
-        Ejecutar el instalador.
+        - Ir al sitio https://nodejs.org/es/
+        - Elegir Windows Installer (.msi) 64 bits. 
+        - Descargar la versión recomendada para la mayoría de las instalaciones.
+        - Ejecutar el instalador.
 
 
 Paso 4. Instalar Typescript.
@@ -61,11 +61,10 @@ Paso 4. Instalar Typescript.
        Puedes hacer una instalación global con el commando:             
             npm install -g typescript
 
-![image](https://github.com/user-attachments/assets/539e94f1-2c18-491f-b567-487f681aa548)
-
-
 Paso 5. Instalar Angular.
 
+        Usando npm:
+            npm install -g @angular/cli
 
 ### Resultado esperado
 En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
