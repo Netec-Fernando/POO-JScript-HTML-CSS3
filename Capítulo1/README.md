@@ -40,7 +40,7 @@ Paso 2. Estructura básica HTML:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi primera página web</title>
+    <title>Saludo</title>
     <link rel="stylesheet" href="styles.css">   
 
 </head>
@@ -107,5 +107,5 @@ Paso 6. Abre el archivo en tu navegador:
 
 
 ### Resultado esperado
-
-![imagen](imagen_2.png)
+![imagen](saludo_inicial.png)
+![imagen](saludo_final.png)
