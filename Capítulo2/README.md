@@ -26,7 +26,8 @@ Herramientas para el Desarrollo Web
 
 
 ## Instrucciones 
-    Instalacion de los productos para Desarrollo Web:
+    Instalar de los productos para Desarrollo Web:
+    
       Navegadores:
         Google Chrome: https://www.google.es/chrome/browser/desktop/
       Editores de código o IDEs:
