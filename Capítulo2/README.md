@@ -26,15 +26,15 @@ Herramientas para el Desarrollo Web
 
 
 ## Instrucciones 
-  Instalacion de los productos para Desarrollo Web:
-  Navegadores:
-    Google Chrome: https://www.google.es/chrome/browser/desktop/
-  Editores de código o IDEs:
-    Visual Studio Code: https://code.visualstudio.com/
-  Entornos de ejecución y lenguajes:
-    NodeJS: https://nodejs.org/es/ 
-  TypeScript: http://www.typescriptlang.org/
-  Angular CLI: https://cli.angular.io/
+    Instalacion de los productos para Desarrollo Web:
+      Navegadores:
+        Google Chrome: https://www.google.es/chrome/browser/desktop/
+      Editores de código o IDEs:
+        Visual Studio Code: https://code.visualstudio.com/
+      Entornos de ejecución y lenguajes:
+        NodeJS: https://nodejs.org/es/ 
+        TypeScript: http://www.typescriptlang.org/
+        Angular CLI: https://cli.angular.io/
 
 
 ### Tarea 1. Descripción de la tarea a realizar.
