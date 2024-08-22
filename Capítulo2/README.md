@@ -67,5 +67,7 @@ Paso 5. Instalar Angular.
             npm install -g @angular/cli
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
+Verifica la instalación de los productos dando los siguientes comandos en la terminal de Windows.
+
+![imagen](Instalacion.png)
 
