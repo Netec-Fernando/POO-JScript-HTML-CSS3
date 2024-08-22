@@ -39,9 +39,10 @@ Herramientas para el Desarrollo Web
 
 
 ### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Descargar e instalar Google Chrome última versión.
+Paso 1. Descargar desde https://www.google.es/chrome/browser/desktop/
+        e instalar Google Chrome última versión.
 
-Paso 2. Descargar e instalar Visual Studio Code última verión.
+Paso 2. Descargar  instalar Visual Studio Code última versión.
 
 Paso 3. Descargar e instalar Node.js
 
