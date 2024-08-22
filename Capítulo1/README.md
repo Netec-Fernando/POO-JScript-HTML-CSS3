@@ -10,7 +10,7 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo Visual 
 Al realizar la práctica podrás ver en el navegador la siguiente imagen. 
 
-![imagen](imagen_1.png)
+![imagen](saludo_inicial.png)
 
 ## Duración aproximada:
 - 30 minutos.
