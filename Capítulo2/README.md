@@ -45,6 +45,7 @@ Paso 1. Descargar desde https://www.google.es/chrome/browser/desktop/ el instala
 Paso 2. Descargar desde https://code.visualstudio.com/ Visual Studio Code e instalar la última versión.
 
 Paso 3. Descargar desde https://nodejs.org/es/ Node.js e instalar la última versión.
+
         Ir al sitio https://nodejs.org/es/
         Windows Installer (.msi) 64 bits. 
         Descargar la versión recomendada para la mayoría de las instalaciones.
