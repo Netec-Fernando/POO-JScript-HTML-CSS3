@@ -26,7 +26,7 @@ Herramientas para el Desarrollo Web
 
 
 ## Instrucciones 
-    Instalar de los productos para Desarrollo Web:
+    Instalar los productos para Desarrollo Web:
     
       Navegadores:
         Google Chrome: https://www.google.es/chrome/browser/desktop/
@@ -39,9 +39,9 @@ Herramientas para el Desarrollo Web
 
 
 ### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+Paso 1. Descargar e instalar Google Chrome última versión.
 
-Paso 2. <!-- Añadir instrucción -->
+Paso 2. Descargar e instalar Visual Studio Code última verión.
 
 Paso 3. <!-- Añadir instrucción -->
 
