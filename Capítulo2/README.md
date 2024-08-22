@@ -15,10 +15,15 @@ Herramientas para el Desarrollo Web
 - xx minutos.
 
 ## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+| Requisito | Descripcion|
+| --- | --- |
+| Navegador | Tener instalado Chrome, Firefox, EDGE, Safari |
+| Herramienta de Desarrollo | Descargar e instalar Visual Studio Code. |
+| Ambiente de ejecución de JavaScript | Descargar e instalar Node.js |
+| Lenguaje JavaScript | Instalar TypeScript. |
+| Angular Framework | Instalar Angular. |
+| Terminal | Acceso a la terminal de comandos del sistema. |
+
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
