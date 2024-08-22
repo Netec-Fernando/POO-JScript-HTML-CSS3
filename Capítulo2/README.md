@@ -12,12 +12,12 @@ Herramientas para el Desarrollo Web
 ![imagen](Herramientas.png)
 
 ## Duración aproximada:
-- xx minutos.
+- 60 minutos.
 
 ## Tabla de ayuda:
 | Requisito | Descripcion|
 | --- | --- |
-| Navegador | Tener instalado Chrome, Firefox, EDGE, Safari |
+| Navegador | Tener instalado Chrome, Firefox, Edge o Safari |
 | Herramienta de Desarrollo | Descargar e instalar Visual Studio Code. |
 | Ambiente de ejecución de JavaScript | Descargar e instalar Node.js |
 | Lenguaje JavaScript | Instalar TypeScript. |
@@ -43,7 +43,12 @@ Paso 1. Descargar e instalar Google Chrome última versión.
 
 Paso 2. Descargar e instalar Visual Studio Code última verión.
 
-Paso 3. <!-- Añadir instrucción -->
+Paso 3. Descargar e instalar Node.js
+
+Paso 1. Instalar Typescript.
+
+Paso 2. Instalar Angular.
+
 
 ### Resultado esperado
 En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
