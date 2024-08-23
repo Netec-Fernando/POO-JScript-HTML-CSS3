@@ -39,7 +39,9 @@ Paso 2. Cambiate al directorio capitulo1 e invoca el Visual Studio Code.
 
 Paso 3. Crear la pagina web inicial:
 
-    Abre tu editor de código y crea un nuevo archivo con la extensión .html, por ejemplo, index.html.
+    En tu editor de código y crea un nuevo archivo con la extensión .html, por ejemplo, index.html.
+
+![imagen](crear_index_html.png)
 
 Paso 4. Estructura básica HTML:
 
