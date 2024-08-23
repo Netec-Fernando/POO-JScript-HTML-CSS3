@@ -1,10 +1,14 @@
-# Nombre del laboratorio 
+# Diseñando y Estructurando una Página Web con HTML
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+- Aprender como se diseña una página web
+- Definir la estructura de una página
+- Explicar los elementos y atributos básicos de HTML.
+- Crear y marcar correctamente una página HTML que contiene elementos de texto.
+- Crear formularios para recopilar datos y validar la entrada del usuario.
+![image](https://github.com/user-attachments/assets/5a0ac36f-647a-4944-8863-905e2775b108)
+
 
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
