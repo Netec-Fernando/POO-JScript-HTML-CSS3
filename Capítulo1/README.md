@@ -22,14 +22,26 @@ Al realizar la práctica podrás ver en el navegador la siguiente imagen.
 | Terminal | Acceso a la terminal de comandos del sistema. |
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
+
 ### Tarea 1. Descripción de la tarea a realizar.
 
-Paso 1. Abre Visual Studio Code y crea un nuevo archivo:
+Paso 1. Crear el directorio de trabajo "DesarrolloWeb" y los directorios para cada capitulo. 
+
+        Abre una ventana de linea de comandos CMD en tu directorio default.
+        Crea el directorio DesarrolloWeb
+        Cambiate al directorio DesarrolloWeb y crea un directorio por cada capitulo del curso
+
+![imagen](crear_dir__Desarrollo_Web.png)
+
+Paso 2. Cambiate al directorio capitulo1 e invoca el Visual Studio Code.
+
+![imagen](cambiarse_cap1_invocar_vsc.png)
+
+Paso 3. Crear la pagina web inicial:
 
     Abre tu editor de código y crea un nuevo archivo con la extensión .html, por ejemplo, index.html.
 
-Paso 2. Estructura básica HTML:
+Paso 4. Estructura básica HTML:
 
     Escribe el siguiente código en tu archivo index.html:
 
@@ -64,14 +76,14 @@ Explicación:
 <script>: Enlaza el archivo JavaScript script.js.
 ```
 
-Paso 3. Crea los archivos CSS y JavaScript:
+Paso 5. Crea los archivos CSS y JavaScript:
 
     Crea dos archivos nuevos en la misma carpeta que index.html:
     
     styles.css para el estilo.
     script.js para el código JavaScript.
 
-Paso 4. Estiliza con CSS:
+Paso 6. Estiliza con CSS:
 
     En el archivo styles.css, agrega reglas CSS para cambiar la apariencia de los elementos:
 
@@ -87,7 +99,7 @@ h1 {
 }
 ```
 
-Paso 5. Agrega interactividad con JavaScript:
+Paso 7. Agrega interactividad con JavaScript:
 
     En el archivo script.js, escribe código JavaScript para agregar funcionalidad. Por ejemplo, puedes cambiar el color del texto al hacer clic en él:
 
@@ -101,7 +113,7 @@ h1.addEventListener('click', () => {
 });
 ```
 
-Paso 6. Abre el archivo en tu navegador:
+Paso 8. Abre el archivo en tu navegador:
 
     Haz doble clic en index.html para abrirlo en tu navegador.
 
