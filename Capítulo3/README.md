@@ -20,17 +20,37 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 | Requisito | Descripcion|
 | --- | --- |
 | Navegador Web | Navegador web como Chrome, Firefox, Safari. |
-| Editor Código | Un editor de texto como VSCode, Sublime Text o similar. |
+| Editor Código | Editor de texto como VSCode, Sublime Text o similar. |
 | Terminal | Acceso a la terminal de comandos del sistema. |
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
+
+### Tarea 1. Diseñar y crear una página web.
 Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+Paso 2. 
 
-Paso 3. <!-- Añadir instrucción -->
+Paso 3.
+
+Paso 4. 
+
+Paso 5.
+
+Paso 6. 
+
+Paso 7.
+
+Paso 8. 
+
+Paso 9.
+
+Paso 10. 
+
+Paso 11.
+
+Paso 12. 
+
+Paso 13.
 
 ### Tarea 2. Descripción de la tarea a realizar.
 Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
