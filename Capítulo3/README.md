@@ -20,7 +20,7 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 | Requisito | Descripcion|
 | --- | --- |
 | Navegador Web | Navegador web como Chrome, Firefox, Safari. |
-| Editor Código | Editor de texto como VSCode, Sublime Text o similar. |
+| Editor Código | Visual Studio Code. |
 | Terminal | Acceso a la terminal de comandos del sistema. |
 
 ## Instrucciones 
