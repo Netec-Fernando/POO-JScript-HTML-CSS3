@@ -85,7 +85,9 @@ Paso 8. Añadir las imágenes que requiera la página web.
         Añade un icono desde Table Icons, busca uno que se llame map-pin, dale clic en copiar y pégalo abajo del encabezado
         Diseño y Desarrollo web.
 
-        
+![imagen](imagenes_1.png)
+
+![imagen](imagenes_1.png)
 
 
 
