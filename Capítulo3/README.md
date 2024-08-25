@@ -107,13 +107,10 @@ Paso 8. Añadir las imágenes que requiera la página web.
 
 Paso 9. Definir el formulario.
 
-        Cambia el enlace de "Contacto" nuevamente por un encabezado tipo <h2>.
-        Agrega la etiqueta <form></form> despues del encabezaddo de Contacto, aqui van los campos del formulario
+        - Cambia el enlace de "Contacto" nuevamente por un encabezado tipo <h2>.
+        - Agrega la etiqueta <form></form> despues del encabezaddo de Contacto, aqui van los campos del formulario
         tal y como se muestra en la siguiente imagen.
-
-        
-        
-
+    
 Paso 10.
 
 Paso 11. 
