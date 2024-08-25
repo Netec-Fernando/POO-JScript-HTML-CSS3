@@ -31,11 +31,11 @@ Paso 1. Abrir una ventana linea de comandos, cambiarse al directorio DesarrolloW
 
 Paso 2. En el VSC cerar un nuevo archivo index.html
 
-![imagen](agregar_texto.png)
+![imagen](crear_html5_index.png)
 
 Paso 3. Generar la pagina web básica tecleando html:5 en el area de trabajo.
 
-![imagen](crear_html5.png)
+![imagen](html5_index.png)
 
 Paso 4. Instale la extensión "Live Preview" de Visual Studio Code.
 
