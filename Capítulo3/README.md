@@ -37,7 +37,7 @@ Paso 4. Instale la extensión "Live Preview" de Visual Studio Code.
 Paso 5. Definina los TEXTOS de la página web. Escriba en el cuerpo de la página las siguientes etiquetas html.
         Puedes generar diferentes tipos de contenidos yendo a https://loremipsum.io/es
 
-        
+       ![imagen](agregar_texto.png)  
 
 Paso 6. Formatee el documento. Puede usar las teclas de acceso rápido shift-alt-f.
 
