@@ -27,13 +27,19 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 ### Tarea 1. Diseñar y crear una página web.
 Paso 1. Abrir una ventana linea de comandos, cambiarse al directorio DesarrolloWeb\capitulo3 e invocar el VSC.
 
-![imagen](agregar_texto.png)
+![imagen](invocar_vsc.png)
 
 Paso 2. En el VSC cerar un nuevo archivo index.html
 
+![imagen](agregar_texto.png)
+
 Paso 3. Generar la pagina web básica tecleando html:5 en el area de trabajo.
 
+![imagen](crear_html5.png)
+
 Paso 4. Instale la extensión "Live Preview" de Visual Studio Code.
+
+![imagen](instalar_Live_Preview.png)
 
 Paso 5. Definina los TEXTOS de la página web. Escriba en el cuerpo de la página las siguientes etiquetas html.
         Puedes generar diferentes tipos de contenidos yendo a https://loremipsum.io/es
@@ -41,6 +47,8 @@ Paso 5. Definina los TEXTOS de la página web. Escriba en el cuerpo de la págin
 ![imagen](agregar_texto.png)  
 
 Paso 6. Formatee el documento. Puede usar las teclas de acceso rápido shift-alt-f.
+
+![imagen](formatear.png)
 
 Paso 7.
 
