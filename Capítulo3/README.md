@@ -78,6 +78,8 @@ Paso 8. Añadir las imágenes que requiera la página web.
         Existen diferentes servicios de imágenes precreadas, por ejemplo Tabler Icons https://tablericons.com/, Hero Icons
         https://heroicons.com/ y Font Awesome https://fontawesome.com/, desde donde se pueden copiar y pegar las imágenes.
 
+        Añade abajo de la barra de navegación una imagen de fondo usando la etiqueta <img src="nombre de la imagen">
+
 
 
 Paso 9. Define el formulario.
