@@ -117,7 +117,9 @@ Paso 9. Definir el formulario.
         
         Deberá verse tal y como se muestra en la siguiente imagen.
 
-        
+        ![image](final_capitulo3.png)
+
+        ![image](final_capitulo3.png)
     
 Paso 10.
 
