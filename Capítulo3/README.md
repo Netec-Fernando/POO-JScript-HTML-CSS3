@@ -26,7 +26,7 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 
 ### Tarea 1. Diseñar y crear una página web.
 Paso 1. Abrir una ventana linea de comandos, cambiarse al directorio DesarrolloWeb\capitulo3 e invocar el VSC.
-
+![imagen](agregar_texto.png)
 
 Paso 2. En el VSC cerar un nuevo archivo index.html
 
