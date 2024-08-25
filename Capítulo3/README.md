@@ -123,5 +123,5 @@ Paso 9. Definir el formulario.
     
 ### Resultado esperado
 
-<img src=""objetivo_visual.jpg" width="200" height="200">
+![image](<img src=""objetivo_visual.jpg" width="600" height="800">
 
