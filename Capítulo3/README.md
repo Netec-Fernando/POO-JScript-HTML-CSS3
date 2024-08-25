@@ -11,7 +11,7 @@ Al finalizar la práctica, serás capaz de:
 - Crear formularios para recopilar datos y validar la entrada del usuario.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+![imagen](objetivo_visual.png)
 
 ## Duración aproximada:
 - 60 minutos.
@@ -121,12 +121,6 @@ Paso 9. Definir el formulario.
 
 ![image](campos_divs_imagen.png)
     
-Paso 10.
-
-Paso 11. 
-
-Paso 12.
-
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
+![imagen](objetivo_visual.png)
 
