@@ -89,6 +89,10 @@ Paso 8. Añadir las imágenes que requiera la página web.
 
 ![imagen](elegir_icono.png)
 
+        Agrega los iconos "pallet", "brand-android", "brand-apple", "brand-shopee" abajo de cada una de las leyendas de servicios.
+
+
+
 ![imagen](imagenes_2.png)
 
 Paso 9. Define el formulario.
