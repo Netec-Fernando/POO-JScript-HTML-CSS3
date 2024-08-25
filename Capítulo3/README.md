@@ -82,6 +82,11 @@ Paso 8. Añadir las imágenes que requiera la página web.
 
         Añade abajo de la barra de navegación una imagen de fondo usando la etiqueta <img src="nombre de la imagen">
 
+        Añade un icono desde Table Icons, busca uno que se llame map-pin, dale clic en copiar y pégalo abajo del encabezado
+        Diseño y Desarrollo web.
+
+        
+
 
 
 Paso 9. Define el formulario.
