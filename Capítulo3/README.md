@@ -41,14 +41,14 @@ Paso 3. Instalar la extensión "Live Preview" de Visual Studio Code.
 
 Paso 4. Definir los TEXTOS de la página web.
 
-        Escriba en el cuerpo de la página las siguientes etiquetas html.
+        Escribe en el cuerpo de la página las siguientes etiquetas html.
         Puedes generar diferentes tipos de contenidos yendo a https://loremipsum.io/es
 
 ![imagen](agregar_texto.png)  
 
 Paso 5. Formatear el documento.
 
-        Puede usar las teclas de acceso rápido shift-alt-f.
+        Puedes usar las teclas de acceso rápido shift-alt-f para dar formato html a la página.
 
 ![imagen](formatear.png)
 
@@ -60,9 +60,9 @@ Paso 6. Estructurar la página.
 
 ![imagen](estructura_html.png)
 
-Paso 7. Crea los enlaces de navegación.
+Paso 7. Crear los enlaces de navegación.
 
-        Usando la etiqueta `<nav></nav>` y dentro de ella las etiquetas `<a href="#">contenido<a/>`, en donde el signo #
+        Usando la etiqueta <nav></nav> y dentro de ella las etiquetas `<a href="#">contenido<a/>`, en donde el signo #
         que significa, aun no esta decidido el enlace de la página a visitar. También puedes definir un enlace para la 
         página de contacto en vez de un nivel `<h2>`, tal y como se ve en las siguientes imagenes.
 
@@ -73,7 +73,7 @@ Paso 7. Crea los enlaces de navegación.
 
 ![imagen](enlaces_2.png)
 
-Paso 8. Añade las imágenes que requiera tu página web. 
+Paso 8. Añadir las imágenes que requiera la página web. 
 
         Existen diferentes servicios de imágenes precreadas, por ejemplo Tabler Icons https://tablericons.com/, Hero Icons
         https://heroicons.com/ y Font Awesome https://fontawesome.com/, desde donde se pueden copiar y pegar las imágenes.
