@@ -62,7 +62,11 @@ Sugerencia:  puedes usar la combinación de teclas shit-alt-flechaAbajo para cop
 
 ![imagen](enlaces_2.png)
 
-Paso 8. Añade las imágenes.
+Paso 8. Añade las imágenes que requiera tu página web. 
+
+        Existen diferentes servicios de imágenes precreadas, por ejemplo Tabler Icons https://tablericons.com/, Hero Icons https://heroicons.com/ y Font Awesome https://fontawesome.com/, desde donde puede copiar y pegar las imagenes.
+
+
 
 Paso 9. Define el formulario.
 
