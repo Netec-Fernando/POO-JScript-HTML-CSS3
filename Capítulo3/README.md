@@ -54,7 +54,11 @@ Paso 6. De acuerdo a las recomendaciones de agrupación, estucture la página we
 
 ![imagen](estructura_html.png)
 
-Paso 7. Crea los enlaces de navegación.
+Paso 7. Crea los enlaces de navegación usando la etiqueta <nav></nav> y dentro de ella la(s) entiqueta(s) <a href="#">contenido<a/>, donde 3l # significa aun no esta decidido elenlace de página a visitar. 
+Sugerencia:  puedes usar la combinación de teclas shit-alt-flechaAbajo para copiar una o mas veces la linea donde esta el curso.
+
+
+
 
 Paso 8. Añade las imágenes.
 
