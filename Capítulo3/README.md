@@ -41,6 +41,11 @@ Paso 3. Instalar la extensión "Live Preview" de Visual Studio Code.
 
 ![imagen](instalar_Live_Preview.png)
 
+        En la parte superior derecha puedes darle clic al icono de la siguiente imagen para ver en cualquier
+        momento la presentación de la página web.
+        
+![imagen](vista_previa_pag_web.png)
+
 Paso 4. Definir los TEXTOS de la página web.
 
         Escribe en el cuerpo de la página las siguientes etiquetas html.
