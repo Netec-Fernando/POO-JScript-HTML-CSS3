@@ -96,6 +96,11 @@ Paso 8. Añadir las imágenes que requiera la página web.
 
 ![imagen](imagenes_2.png)
 
+        La página al final de esta práctica se deberá ver asi:
+
+![image](final_capitulo3.png)
+
+
 Paso 9. Define el formulario.
 
 Paso 10.
