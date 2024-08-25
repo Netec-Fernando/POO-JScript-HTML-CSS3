@@ -41,7 +41,7 @@ Paso 3. Instalar la extensión "Live Preview" de Visual Studio Code.
 
 ![imagen](instalar_Live_Preview.png)
 
-        En la parte superior derecha puedes darle clic al icono de la siguiente imagen para ver en cualquier
+        En la parte superior derecha en Visual Studio Code puedes darle clic al icono de la siguiente imagen para ver en cualquier
         momento la presentación de la página web.
         
 ![imagen](vista_previa_pag_web.png)
