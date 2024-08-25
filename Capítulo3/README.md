@@ -91,7 +91,7 @@ Paso 8. Añadir las imágenes que requiera la página web.
 
         Agrega los iconos "pallet", "brand-android", "brand-apple", "brand-shopee" abajo de cada una de las leyendas de servicios.
 
-
+![imagen](iconos_servicios.png)
 
 ![imagen](imagenes_2.png)
 
