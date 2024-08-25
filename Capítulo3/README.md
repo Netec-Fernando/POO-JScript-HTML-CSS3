@@ -39,18 +39,21 @@ Paso 3. Instalar la extensión "Live Preview" de Visual Studio Code.
 
 ![imagen](instalar_Live_Preview.png)
 
-Paso 4. Definir los TEXTOS de la página web. 
+Paso 4. Definir los TEXTOS de la página web.
+
         Escriba en el cuerpo de la página las siguientes etiquetas html.
         Puedes generar diferentes tipos de contenidos yendo a https://loremipsum.io/es
 
 ![imagen](agregar_texto.png)  
 
-Paso 5. Formatear el documento. 
+Paso 5. Formatear el documento.
+
         Puede usar las teclas de acceso rápido shift-alt-f.
 
 ![imagen](formatear.png)
 
 Paso 6. Estructurar la página.
+
         De acuerdo a las recomendaciones de agrupación, estucturar la página web en construcción.
 
 ![imagen](solo_estructura.png)
@@ -59,11 +62,12 @@ Paso 6. Estructurar la página.
 
 Paso 7. Crea los enlaces de navegación.
 
-        Usando la etiqueta `<nav></nav>` y dentro de ella las etiquetas `<a href="#">contenido<a/>`, en donde el signo de # significa
-        aun no esta decidido el enlace de la página a visitar. También puedes definir un enlace para la página de contacto en vez de un
-        nivel `<h2>`, tal y como se ve en las siguientes imagenes.
+        Usando la etiqueta `<nav></nav>` y dentro de ella las etiquetas `<a href="#">contenido<a/>`, en donde el signo #
+        que significa, aun no esta decidido el enlace de la página a visitar. También puedes definir un enlace para la 
+        página de contacto en vez de un nivel `<h2>`, tal y como se ve en las siguientes imagenes.
 
-        Sugerencia:  puedes usar la combinación de teclas shit-alt-flechaAbajo para copiar una o mas veces la linea donde esta el cursor.
+        Sugerencia:  puedes usar la combinación de teclas shit-alt-flechaAbajo para copiar una o mas veces la linea donde
+        esta el cursor.
 
 ![imagen](enlaces_1.png)
 
@@ -71,8 +75,8 @@ Paso 7. Crea los enlaces de navegación.
 
 Paso 8. Añade las imágenes que requiera tu página web. 
 
-        Existen diferentes servicios de imágenes precreadas, por ejemplo Tabler Icons https://tablericons.com/, Hero Icons https://heroicons.com/
-        y Font Awesome https://fontawesome.com/, desde donde se pueden copiar y pegar las imágenes.
+        Existen diferentes servicios de imágenes precreadas, por ejemplo Tabler Icons https://tablericons.com/, Hero Icons
+        https://heroicons.com/ y Font Awesome https://fontawesome.com/, desde donde se pueden copiar y pegar las imágenes.
 
 
 
