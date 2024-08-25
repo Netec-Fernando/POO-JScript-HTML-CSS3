@@ -48,7 +48,9 @@ Paso 5. Formatee el documento. Puede usar las teclas de acceso rápido shift-alt
 
 ![imagen](formatear.png)
 
-Paso 6.
+Paso 6. De acuerdo a las recomendaciones de agrupación, estucture la página web en construcción.
+
+
 
 Paso 7. 
 
