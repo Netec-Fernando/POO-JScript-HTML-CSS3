@@ -58,12 +58,9 @@ Paso 7. Crea los enlaces de navegación usando la etiqueta <nav></nav> y dentro 
 
 Sugerencia:  puedes usar la combinación de teclas shit-alt-flechaAbajo para copiar una o mas veces la linea donde esta el cursor.
 
+![imagen](enlaces_1.png)
 
-
-
-
-
-
+![imagen](enlaces_2.png)
 
 Paso 8. Añade las imágenes.
 
