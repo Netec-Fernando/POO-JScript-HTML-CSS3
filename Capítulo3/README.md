@@ -32,11 +32,14 @@ Paso 2. En el VSC cerar un nuevo archivo index.html
 
 Paso 3. Generar la pagina web básica tecleando html:5 en el area de trabajo.
 
-Paso 4. Definiendo los TEXTOS de la página web.
+Paso 4. Instale la extensión "Live Preview" de Visual Studio Code.
 
-Paso 5.
+Paso 5. Definina los TEXTOS de la página web. Escriba en el cuerpo de la página las siguientes etiquetas html.
+        Puedes generar diferentes tipos de contenidos yendo a https://loremipsum.io/es
 
-Paso 6. 
+        
+
+Paso 6. Formatee el documento. Puede usar las teclas de acceso rápido shift-alt-f.
 
 Paso 7.
 
