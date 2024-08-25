@@ -54,7 +54,7 @@ Paso 6. De acuerdo a las recomendaciones de agrupación, estucture la página we
 
 ![imagen](estructura_html.png)
 
-Paso 7. Crea los enlaces de navegación usando la etiqueta `<nav></nav>` y dentro de ella las etiquetas `<a href="#">contenido<a/>`, donde el signo de # significa, aun no esta decidido el enlace de la página a visitar. También puedes definir un enlace para la página de contacto en vez de un nivel `<h2>, tal y como se ve en las siguientes imagenes.
+Paso 7. Crea los enlaces de navegación usando la etiqueta `<nav></nav>` y dentro de ella las etiquetas `<a href="#">contenido<a/>`, donde el signo de # significa, aun no esta decidido el enlace de la página a visitar. También puedes definir un enlace para la página de contacto en vez de un nivel `<h2>`, tal y como se ve en las siguientes imagenes.
 
 Sugerencia:  puedes usar la combinación de teclas shit-alt-flechaAbajo para copiar una o mas veces la linea donde esta el cursor.
 
