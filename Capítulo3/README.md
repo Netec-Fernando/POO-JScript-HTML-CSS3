@@ -117,9 +117,9 @@ Paso 9. Definir el formulario.
         
         Deberá verse tal y como se muestra en la siguiente imagen.
 
-        ![image](final_capitulo3.png)
+        ![image](campos_con_divs.png)
 
-        ![image](final_capitulo3.png)
+        ![image](campos_divs_imagen.png)
     
 Paso 10.
 
