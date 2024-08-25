@@ -26,13 +26,14 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 ## Instrucciones 
 
 ### Tarea 1. Diseñar y crear una página web.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+Paso 1. Abrir una ventana linea de comandos, cambiarse al directorio DesarrolloWeb\capitulo3 e invocar el VSC.
 
-Paso 2. 
 
-Paso 3.
+Paso 2. En el VSC cerar un nuevo archivo index.html
 
-Paso 4. 
+Paso 3. Generar la pagina web básica tecleando html:5 en el area de trabajo.
+
+Paso 4. Definiendo los TEXTOS de la página web.
 
 Paso 5.
 
