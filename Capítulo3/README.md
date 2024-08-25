@@ -122,5 +122,5 @@ Paso 9. Definir el formulario.
 ![image](campos_divs_imagen.png)
     
 ### Resultado esperado
-![imagen](objetivo_visual.png)
+<img src="objetivo_visual" width="800" hight="400>
 
