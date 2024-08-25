@@ -42,6 +42,7 @@ Paso 5. Definina los TEXTOS de la página web. Escriba en el cuerpo de la págin
 Paso 6. Formatee el documento. Puede usar las teclas de acceso rápido shift-alt-f.
 
 Paso 7.
+![invocar_vsc2](https://github.com/user-attachments/assets/687486ce-c5ea-4e50-bb7a-8cb45ba43b4e)
 
 Paso 8. 
 
