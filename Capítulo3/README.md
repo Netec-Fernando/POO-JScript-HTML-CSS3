@@ -29,40 +29,38 @@ Paso 1. Abrir una ventana linea de comandos, cambiarse al directorio DesarrolloW
 
 ![imagen](invocar_vsc.png)
 
-Paso 2. En el VSC cerar un nuevo archivo index.html
+Paso 2. En el VSC cerar un nuevo archivo index.html y generar la pagina web básica tecleando html:5 en el area de trabajo.
 
 ![imagen](crear_html5_index.png)
 
-Paso 3. Generar la pagina web básica tecleando html:5 en el area de trabajo.
-
 ![imagen](html5_index.png)
 
-Paso 4. Instale la extensión "Live Preview" de Visual Studio Code.
+Paso 3. Instale la extensión "Live Preview" de Visual Studio Code.
 
 ![imagen](instalar_Live_Preview.png)
 
-Paso 5. Definina los TEXTOS de la página web. Escriba en el cuerpo de la página las siguientes etiquetas html.
+Paso 4. Definina los TEXTOS de la página web. Escriba en el cuerpo de la página las siguientes etiquetas html.
         Puedes generar diferentes tipos de contenidos yendo a https://loremipsum.io/es
 
 ![imagen](agregar_texto.png)  
 
-Paso 6. Formatee el documento. Puede usar las teclas de acceso rápido shift-alt-f.
+Paso 5. Formatee el documento. Puede usar las teclas de acceso rápido shift-alt-f.
 
 ![imagen](formatear.png)
 
-Paso 7.
+Paso 6.
 
-Paso 8. 
+Paso 7. 
 
-Paso 9.
+Paso 8.
 
-Paso 10. 
+Paso 9. 
 
-Paso 11.
+Paso 10.
 
-Paso 12. 
+Paso 11. 
 
-Paso 13.
+Paso 12.
 
 ### Tarea 2. Descripción de la tarea a realizar.
 Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
