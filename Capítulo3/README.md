@@ -87,6 +87,8 @@ Paso 8. Añadir las imágenes que requiera la página web.
 
 ![imagen](imagenes_1.png)
 
+![imagen](elegir_icono.png)
+
 ![imagen](imagenes_2.png)
 
 
