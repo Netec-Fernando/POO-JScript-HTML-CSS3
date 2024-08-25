@@ -91,8 +91,6 @@ Paso 8. Añadir las imágenes que requiera la página web.
 
 ![imagen](imagenes_2.png)
 
-
-
 Paso 9. Define el formulario.
 
 Paso 10.
@@ -101,13 +99,6 @@ Paso 11.
 
 Paso 12.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
-
 ### Resultado esperado
 En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
