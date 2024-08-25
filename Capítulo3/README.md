@@ -48,7 +48,7 @@ Paso 4. Definir los TEXTOS de la página web.
 
 Paso 5. Formatear el documento.
 
-        Puedes usar las teclas de acceso rápido shift-alt-f para dar formato html a la página.
+        Sugerencia: Puedes usar las teclas de acceso rápido shift-alt-f para dar formato html a la página.
 
 ![imagen](formatear.png)
 
@@ -62,9 +62,9 @@ Paso 6. Estructurar la página.
 
 Paso 7. Crear los enlaces de navegación.
 
-        Usando la etiqueta <nav></nav> y dentro de ella las etiquetas <a href="#">contenido<a/>, en donde el signo #
-        significa: aun no esta decidido el enlace de la página a visitar. También puedes definir un enlace para la 
-        página de contacto en vez de un nivel <h2>, tal y como se ve en las siguientes imágenes.
+        Usa la etiqueta <nav></nav> y dentro de ella las etiquetas <a href="#">contenido<a/>, el signo #
+        significa, "aun no esta decidido el enlace de la página a visitar". 
+        Define un enlace para la página de contacto en vez de un nivel <h2>, tal y como se ve en las siguientes imágenes.
 
         Sugerencia:  puedes usar la combinación de teclas shit-alt-flechaAbajo para copiar una o mas veces la línea donde
         esta el cursor.
