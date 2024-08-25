@@ -54,12 +54,11 @@ Paso 6. De acuerdo a las recomendaciones de agrupación, estucture la página we
 
 ![imagen](estructura_html.png)
 
+Paso 7. Crea los enlaces de navegación.
 
-Paso 7. 
+Paso 8. Añade las imágenes.
 
-Paso 8.
-
-Paso 9. 
+Paso 9. Define el formulario.
 
 Paso 10.
 
