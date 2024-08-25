@@ -107,9 +107,15 @@ Paso 8. Añadir las imágenes que requiera la página web.
 
 Paso 9. Definir el formulario.
 
-        - Cambia el enlace de "Contacto" nuevamente por un encabezado tipo <h2>.
-        - Agrega la etiqueta <form></form> despues del encabezaddo de Contacto, aqui van los campos del formulario
-        tal y como se muestra en la siguiente imagen.
+        Cambia el enlace de "Contacto" nuevamente por un encabezado tipo <h2>.
+        Agrega la etiqueta <form></form> despues del encabezaddo de Contacto, aqui van los campos del formulario.
+        Define un grupo de campos con la etiqueta <fieldset></fieldset> y dentro de ella agrega una titulo con la etiqueta <legend></legend>.
+        Agrega las siguientas etiquetas por pares <label>nombre de campo</label> <input type="tipo de entrada text, email, tel"/> de acuerdo
+        a la información que se desee capturar. Cada pareja <label><input> deberán ir dentro de una etiqueta división <div></div> para que
+        aparezcan cada pareja, una por linea.
+        Deberá verse tal y como se muestra en la siguiente imagen.
+
+        
     
 Paso 10.
 
