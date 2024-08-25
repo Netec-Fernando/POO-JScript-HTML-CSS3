@@ -11,8 +11,6 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img1.png)
-
 ## Duración aproximada:
 - 60 minutos.
 
@@ -21,6 +19,7 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 | --- | --- |
 | Navegador Web | Navegador web como Chrome, Firefox, Safari. |
 | Editor Código | Visual Studio Code. |
+| Live Preview | Instalar la extension "Live Preview" en Visual Studio Code. |
 | Terminal | Acceso a la terminal de comandos del sistema. |
 
 ## Instrucciones 
