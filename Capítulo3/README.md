@@ -6,6 +6,8 @@ Al finalizar la práctica, serás capaz de:
 - Definir la estructura de una página
 - Explicar los elementos y atributos básicos de HTML.
 - Crear y marcar correctamente una página HTML que contiene elementos de texto.
+- Agregar barras de navegación y enlaces.
+- Adicionar imágenes e íconos a la página.
 - Crear formularios para recopilar datos y validar la entrada del usuario.
 
 ## Objetivo Visual 
