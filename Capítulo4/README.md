@@ -1,4 +1,4 @@
-# Diseñando y Estructurando una Página Web con HTML
+# Aplicando Estilos a una Página Web con CSS
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
