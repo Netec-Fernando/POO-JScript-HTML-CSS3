@@ -203,5 +203,15 @@ perro2.ladrar();        // Salida: Rex está ladrando: ¡Guau, guau!
 ```
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+    Este es un Animal Genérico
+
+    Este es un Firulais
+    Y es un perro de raza Labrador
+    Firulais está ladrando: ¡Guau, guau!
+    Firulais es un Labrador
+
+    Este es un Rex
+    Y es un perro de raza Pastor Alemán
+    Rex está ladrando: ¡Guau, guau!
+
