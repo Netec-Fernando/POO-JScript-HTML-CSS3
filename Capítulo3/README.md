@@ -29,17 +29,17 @@ Al finalizar la práctica, serás capaz de:
 ### Tarea 1. Diseñar y crear una página web.
 Paso 1. Abrir una ventana linea de comandos, cambiarse al directorio DesarrolloWeb\capitulo3 e invocar el VSC.
 
-![imagen](../imagenes/capitulo3/invocar_vsc.png)
+![imagen](../imagenes/capitulo3/textos/invocar_vsc.png)
 
 Paso 2. En el VSC crear un nuevo archivo index.html y generar la pagina web básica tecleando html:5 en el area de trabajo.
 
-![imagen](../imagenes/capitulo3/crear_html5_index.png)
+![imagen](../imagenes/capitulo3/textos/crear_html5_index.png)
 
-![imagen](../imagenes/capitulo3/html5_index.png)
+![imagen](../imagenes/capitulo3/textos/html5_index.png)
 
 Paso 3. Instalar la extensión "Live Preview" de Visual Studio Code.
 
-![imagen](../imagenes/capitulo3/instalar_Live_Preview.png)
+![imagen](../imagenes/capitulo3/textos/instalar_Live_Preview.png)
 
         En la parte superior derecha en Visual Studio Code puedes darle clic al icono de la siguiente imagen para ver en 
         cualquier momento la presentación de la página web.
@@ -51,13 +51,13 @@ Paso 4. Definir los TEXTOS de la página web.
         Escribe en el cuerpo de la página las siguientes etiquetas html.
         Puedes generar diferentes tipos de contenidos yendo a https://loremipsum.io/es
 
-![imagen](../imagenes/capitulo3/agregar_texto.png)  
+![imagen](../imagenes/capitulo3/textos/agregar_texto.png)  
 
 Paso 5. Formatear el documento.
 
         Sugerencia: Puedes usar las teclas de acceso rápido shift-alt-f para dar formato html a la página.
 
-![imagen](../imagenes/capitulo3/formatear.png)
+![imagen](../imagenes/capitulo3/textos/formatear.png)
 
 Paso 6. Estructurar la página.
 
