@@ -69,5 +69,5 @@ Paso 5. Instalar Angular.
 ### Resultado esperado
 Verifica la instalación de los productos dando los siguientes comandos en la terminal de Windows.
 
-![imagen](../imagenes/capitulo2/Instalacion.png)
+![imagen](../imagenes/capitulo2/instalacion.png)
 
