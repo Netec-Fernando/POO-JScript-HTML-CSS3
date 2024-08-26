@@ -169,12 +169,14 @@ for (let i = 0; i < estudiantes.length; i++) {
     Este programa demuestra el uso de variables, arreglos, ciclos y sentencias condicionales de manera clara y práctica.
 
 
-
-
-
-
-
-
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+    Ana ha aprobado con una calificación de 7
+    Luis ha reprobado con una calificación de 4
+    Juan ha aprobado con una calificación de 8
+    María ha reprobado con una calificación de 5
+    Ana ha aprobado con una calificación de 7
+    Luis ha reprobado con una calificación de 4
+    Juan ha aprobado con una calificación de 8
+    María ha reprobado con una calificación de 5
+    Carlos ha aprobado con una calificación de 9
