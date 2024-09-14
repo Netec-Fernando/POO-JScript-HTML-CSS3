@@ -11,8 +11,8 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![imagen1](../imagenes/Capitulo6/HTTP-Request.jpg)
-![imagen2](../images/Capitulo6/Ciclo protocolo HTTP.png)
+![imagen1](../imagenes/capitulo6/HTTP-Request.jpg)
+![imagen2](../imagenes/capitulo6/Ciclo protocolo HTTP.png)
 
 ## Duración aproximada:
 - 60 minutos.
