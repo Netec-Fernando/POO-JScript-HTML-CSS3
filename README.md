@@ -6,13 +6,13 @@ Horas: 35               Sesiones: 5
 
 Este curso está dirigido a profesionales de TI interesados en convertirse en desarrolladores web del lado del cliente, quienes necesitan dar un impulso en las tres tecnologías HTML, CSS y JavaScript. Este curso se centra en el uso de HTML, CSS y JavaScript para desarrollar páginas web, implementar lógica de programación usando variables, ciclos y sentencias de decisión, así como capturar y validar entradas de usuarios para crear aplicaciones bien estructuradas.	
 
-## Objetivos		
+# Objetivos		
 
-•	Conocer los elementos básicos de la tecnología HTML
-•	Saber cómo aplicar estilos con CSS
-•	Utilizar JavaScript para el manejo lógico y dinámico de los elementos de las páginas web
-•	Aprender a utilizar la programación orientada a objetos para el desarrollo de componentes
-•	Combinar las tres tecnologías de manera adecuada y eficiente para el desarrollo de páginas web estructuradas y eficientes.	
+-	Conocer los elementos básicos de la tecnología HTML
+-	Saber cómo aplicar estilos con CSS
+-	Utilizar JavaScript para el manejo lógico y dinámico de los elementos de las páginas web
+-	Aprender a utilizar la programación orientada a objetos para el desarrollo de componentes
+-	Combinar las tres tecnologías de manera adecuada y eficiente para el desarrollo de páginas web estructuradas y eficientes.	
 
 # Audiencia 		
 
