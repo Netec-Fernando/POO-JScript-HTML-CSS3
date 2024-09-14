@@ -2,7 +2,7 @@
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Saber como es el manejo de las solicitudes y errores del protocolo HTTP.
+- Conocer como es el manejo de las solicitudes y errores del protocolo HTTP.
 - Comprender el uso de Promesas en JavaScript.
 - Aprender como se realiza la iteración y visualización de Datos.
 - Obtener los fundamentos para trabajar con APIs REST.
