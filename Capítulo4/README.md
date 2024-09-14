@@ -8,7 +8,7 @@ Al finalizar la práctica, serás capaz de:
 - Manejar márgenes y distribución de componentes.
 
 ## Objetivo Visual 
-![imagen](../imagenes/capitulo4/objetivo_visual.png)
+![imagen](../imagenes/capitulo4/estructura_css.jpg)
 
 ## Duración aproximada:
 - 60 minutos.
@@ -32,6 +32,6 @@ Paso 2. Copiar los archivos de la práctica 3 al directorio del capítulo4.
     
 ### Resultado esperado
 
-![imagen](../imagenes/capitulo4/objetivo_visual.png)
+![imagen](../imagenes/capitulo4/estilos_aplicados.png)
 
 
