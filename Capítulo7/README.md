@@ -9,8 +9,7 @@ Al finalizar la práctica, serás capaz de:
 - Familiarizarse con la creación de Instancias de Clases.
 
 
-## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+## Objetivo Visual . 
 
 ![imagen](../imagenes/capitulo7/orientacion_objetos.png)
 
