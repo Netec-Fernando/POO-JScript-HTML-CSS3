@@ -10,7 +10,6 @@ Al finalizar la práctica, serás capaz de:
 
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
 ![imagen](../imagenes/apendiceA/OrientacionObjetosTS.png)
 
