@@ -12,7 +12,7 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img1.png)
+![imagen](../imageness/orientacion_objetos.png)
 
 ## Duración aproximada:
 - 60 minutos.
