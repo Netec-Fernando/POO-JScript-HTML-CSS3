@@ -15,7 +15,7 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 ![diagrama1](../images/img1.png)
 
 ## Duración aproximada:
-- xx minutos.
+- 60 minutos.
 
 ## Tabla de ayuda:
 | Requisito | Descripcion|
