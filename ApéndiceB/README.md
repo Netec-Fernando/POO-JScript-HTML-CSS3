@@ -69,7 +69,8 @@ Paso 5.Configurar el Componente.
 
     Modificar el archivo greeting.component.ts:
 
-    Este archivo contiene la clase del componente. Modificaremos la clase para incluir una propiedad que contenga el mensaje de saludo.
+    Este archivo contiene la clase del componente. Modificaremos la clase para incluir una propiedad que contenga el mensaje
+    del saludo.
 
 ### Angular
 ```
