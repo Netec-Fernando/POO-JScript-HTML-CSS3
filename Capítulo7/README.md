@@ -29,7 +29,8 @@ Al finalizar la práctica, serás capaz de:
 ### Tarea 1. Descripción de la tarea a realizar.
 Paso 1. Definir la Clase Base.
 
-    Vamos a comenzar definiendo una clase base llamada Animal. Esta clase tendrá un constructor que inicializa el nombre del animal y un método para mostrar el nombre.
+    Vamos a comenzar definiendo una clase base llamada Animal. Esta clase tendrá un constructor que inicializa el nombre 
+    del animal y un método para mostrar el nombre.
 
 ### JavaScript
 ```
@@ -54,7 +55,8 @@ class Animal {
 
 Paso 2. Definir la Clase Derivada.
 
-    Ahora, vamos a definir una clase llamada Perro que herede de la clase Animal. La clase Perro tendrá un método adicional para mostrar un sonido característico.
+    Ahora, vamos a definir una clase llamada Perro que herede de la clase Animal. La clase Perro tendrá un método adicional 
+    para mostrar un sonido característico.
 
 ### JavaScript
 ```
@@ -80,9 +82,12 @@ class Perro extends Animal {
     Explicación:
 
     La clase Perro usa la palabra clave extends para heredar de la clase Animal.
-    En el constructor de Perro, usamos super(nombre) para llamar al constructor de la clase base Animal. Esto inicializa la propiedad nombre en la instancia de Perro.
+    En el constructor de Perro, usamos super(nombre) para llamar al constructor de la clase base Animal. Esto inicializa 
+    la propiedad nombre en la instancia de Perro.
+    
     Añadimos una propiedad nueva raza que es específica para los perros.
-    Definimos dos métodos adicionales: ladrar(), que imprime un sonido característico del perro, y mostrarRaza(), que imprime la raza del perro.
+    Definimos dos métodos adicionales: ladrar(), que imprime un sonido característico del perro, y mostrarRaza(), que imprime
+    la raza del perro.
 
 Paso 3. Crear Instancias y Usar las Clases.
 
@@ -102,12 +107,16 @@ perro1.mostrarRaza();   // Salida: Firulais es un Labrador
 ```
     Explicación:
 
-    Creamos una instancia de la clase Animal llamada animal1 y llamamos a su método mostrarNombre(), que muestra el nombre del animal.
-    Creamos una instancia de la clase Perro llamada perro1, que es un Labrador llamado Firulais. Llamamos a los métodos mostrarNombre(), ladrar(), y mostrarRaza() para demostrar que Perro tiene acceso a métodos de la clase base y también a sus propios métodos.
+    Creamos una instancia de la clase Animal llamada animal1 y llamamos a su método mostrarNombre(), que muestra el nombre 
+    del animal.
+    Creamos una instancia de la clase Perro llamada perro1, que es un Labrador llamado Firulais. Llamamos a los métodos 
+    mostrarNombre(), ladrar(), y mostrarRaza() para demostrar que Perro tiene acceso a métodos de la clase base y también a
+    sus propios métodos.
 
 Paso 4. Polimorfismo y Métodos Sobrescritos.
 
-    En herencia, a veces queremos que una clase derivada tenga su propia implementación de un método que también existe en la clase base. Esto se llama sobrescribir un método.
+    En herencia, a veces queremos que una clase derivada tenga su propia implementación de un método que también existe en la
+    clase base. Esto se llama sobrescribir un método.
 
     Agreguemos un método sobrescrito en la clase Perro.
 
@@ -144,8 +153,11 @@ perro2.ladrar();        // Salida: Rex está ladrando: ¡Guau, guau!
 
     Explicación:
 
-    En la clase Perro, sobrescribimos el método mostrarNombre(). Utilizamos super.mostrarNombre() para llamar al método original de la clase base y luego agregamos más información específica de la clase Perro.
-    Creamos una instancia de Perro llamada perro2 y demostramos cómo el método sobrescrito mostrarNombre() imprime información adicional específica de los perros.
+    En la clase Perro, sobrescribimos el método mostrarNombre(). Utilizamos super.mostrarNombre() para llamar al método 
+    original de la clase base y luego agregamos más información específica de la clase Perro.
+    
+    Creamos una instancia de Perro llamada perro2 y demostramos cómo el método sobrescrito mostrarNombre() imprime información 
+    adicional específica de los perros.
 
     Resumen del Programa Completo
 
