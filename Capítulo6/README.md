@@ -108,35 +108,35 @@ fetch(url)
 
     if (!response.ok) { throw new Error('Error en la solicitud HTTP: ' + response.status); }
     
-    En este paso, verificamos si la respuesta fue exitosa comprobando la propiedad ok de la respuesta. Si no fue exitosa, lanzamos 
-    un error con el código de estado de la respuesta.
+    En este paso, verificamos si la respuesta fue exitosa comprobando la propiedad ok de la respuesta. Si no fue exitosa, 
+    lanzamos un error con el código de estado de la respuesta.
 
     Convertir la respuesta en un objeto JSON:
 
     return response.json();
     
-    Si la respuesta fue exitosa, la convertimos en un objeto JSON usando el método .json(). Esto también devuelve una promesa que 
-    se resuelve con los datos JSON.
+    Si la respuesta fue exitosa, la convertimos en un objeto JSON usando el método .json(). Esto también devuelve una 
+    promesa que se resuelve con los datos JSON.
 
     Manejar los datos obtenidos de la API:
 
     console.log('Datos de los usuarios:', data);
     
-    Aquí, mostramos en la consola los datos de los usuarios obtenidos de la API. También usamos un ciclo forEach para imprimir 
-    los nombres de los usuarios individualmente.
+    Aquí, mostramos en la consola los datos de los usuarios obtenidos de la API. También usamos un ciclo forEach para 
+    imprimir los nombres de los usuarios individualmente.
 
     Manejar errores de la solicitud HTTP:
 
     .catch(error => { console.error('Hubo un problema con la solicitud:', error); });
     
-    Si ocurre algún error durante la solicitud (por ejemplo, si la red está desconectada o la URL no es válida), lo capturamos y
-    mostramos en la consola.
+    Si ocurre algún error durante la solicitud (por ejemplo, si la red está desconectada o la URL no es válida), lo capturamos
+    y mostramos en la consola.
 
 Paso 4: Probar el Programa.
 
     Abre el archivo index.html en un navegador.
-    Observa los resultados en la consola del navegador (puedes abrir la consola presionando F12 o Ctrl+Shift+I y luego seleccionando
-    la pestaña "Consola").
+    Observa los resultados en la consola del navegador (puedes abrir la consola presionando F12 o Ctrl+Shift+I y luego 
+    seleccionando la pestaña "Consola").
 
 ### Resultado esperado
 
