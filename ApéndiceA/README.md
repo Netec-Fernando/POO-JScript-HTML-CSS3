@@ -152,10 +152,12 @@ empleado2.mostrarInformacion(); // Salida: Nombre: Carlos, Edad: 40
     Sobrescribimos el método mostrarInformacion() en la clase Empleado para añadir información específica del empleado.
     Usamos super.mostrarInformacion() para llamar al método de la clase base y luego añadimos la información adicional 
     del puesto.
-    
+
+```
     Resumen del Programa Completo.
 
     Aquí está el código completo del ejemplo que integra todos los pasos anteriores:
+```
 
 ### TypeScript
 ```
