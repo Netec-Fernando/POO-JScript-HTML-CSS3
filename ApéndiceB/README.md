@@ -28,7 +28,9 @@ Al finalizar la práctica, serás capaz de:
 
 ### Tarea 1. Crear un Proyecto en Angular que defina un componente básico.
 Paso 1. Crear un Nuevo Proyecto Angular.
-    Antes de crear un componente, necesitamos un proyecto Angular. Si no tienes uno, puedes crear un nuevo proyecto utilizando Angular CLI (Command Line Interface). Si ya tienes un proyecto existente, puedes omitir este paso.
+
+    Antes de crear un componente, necesitamos un proyecto Angular. Si no tienes uno, puedes crear un nuevo proyecto utilizando 
+    Angular CLI (Command Line Interface). Si ya tienes un proyecto existente, puedes omitir este paso.
 
 Paso 2. (opcional) Instalar Angular CLI (si aun no lo tienes instalado):
 
@@ -85,7 +87,9 @@ export class GreetingComponent {
 ```
     Explicación:
 
-    Usamos el decorador @Component para definir metadatos del componente, como su selector (app-greeting), la plantilla HTML y el archivo de estilo.
+    Usamos el decorador @Component para definir metadatos del componente, como su selector (app-greeting), la plantilla HTML 
+    y el archivo de estilo.
+    
     Dentro de la clase GreetingComponent, definimos una propiedad mensaje que contiene un mensaje de saludo.
     En el constructor de la clase, inicializamos el mensaje.
     Modificar el archivo greeting.component.html:
@@ -101,7 +105,9 @@ Paso 6. Crear este archivo que contiene la plantilla HTML que define la vista de
 
     Explicación:
 
-    Utilizamos interpolación ({{ mensaje }}) para mostrar el valor de la propiedad mensaje en la plantilla. Angular actualizará automáticamente la vista si el valor de mensaje cambia.
+    Utilizamos interpolación ({{ mensaje }}) para mostrar el valor de la propiedad mensaje en la plantilla. Angular actualizará
+    automáticamente la vista si el valor de mensaje cambia.
+    
     Modificar el archivo greeting.component.css (opcional):
 
     Puedes agregar estilos básicos para mejorar la apariencia del componente.
@@ -125,7 +131,8 @@ h1 {
 
 Paso 7. Incluir el Componente en el Módulo Principal.
 
-    Para usar el componente en nuestra aplicación, debemos asegurarnos de que esté declarado en un módulo de Angular. Generalmente, esto se hace en el módulo raíz de la aplicación (AppModule).
+    Para usar el componente en nuestra aplicación, debemos asegurarnos de que esté declarado en un módulo de Angular. Generalmente
+    esto se hace en el módulo raíz de la aplicación (AppModule).
 
     Abrir el archivo app.module.ts:
     Este archivo está en el directorio src/app/.
@@ -184,13 +191,15 @@ Paso 9: Ejecutar la Aplicación.
 
     ng serve
 
-    Este comando compilará el proyecto y lo servirá en un servidor de desarrollo. De forma predeterminada, la aplicación estará disponible en http://localhost:4200/.
+    Este comando compilará el proyecto y lo servirá en un servidor de desarrollo. De forma predeterminada, la aplicación estará disponible
+    en http://localhost:4200/.
 
     Abrir un navegador web y navegar a http://localhost:4200/:
 
     Deberías ver el mensaje de saludo definido en GreetingComponent.
 
     Resumen del Programa Completo
+    
     En este ejemplo, hemos cubierto los siguientes pasos para crear y usar un componente básico en Angular:
 
     Crear un proyecto Angular utilizando Angular CLI.
