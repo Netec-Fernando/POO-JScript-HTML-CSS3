@@ -114,7 +114,8 @@ empleado1.mostrarInformacionEmpleado(); // Salida: Nombre: Ana, Edad: 25
     Explicación:
 
     Creamos una instancia de Persona llamada persona1 y llamamos a su método mostrarInformacion() para mostrar los datos.
-    Creamos una instancia de Empleado llamada empleado1. Llamamos al método mostrarInformacionEmpleado() que muestra tanto la información básica de la persona como el puesto del empleado.
+    Creamos una instancia de Empleado llamada empleado1. Llamamos al método mostrarInformacionEmpleado() que muestra tanto 
+    la información básica de la persona como el puesto del empleado.
 
 Paso 4. Polimorfismo y Métodos Sobrescritos
 
@@ -149,7 +150,9 @@ empleado2.mostrarInformacion(); // Salida: Nombre: Carlos, Edad: 40
     Explicación:
 
     Sobrescribimos el método mostrarInformacion() en la clase Empleado para añadir información específica del empleado.
-    Usamos super.mostrarInformacion() para llamar al método de la clase base y luego añadimos la información adicional del puesto.
+    Usamos super.mostrarInformacion() para llamar al método de la clase base y luego añadimos la información adicional 
+    del puesto.
+    
     Resumen del Programa Completo.
 
     Aquí está el código completo del ejemplo que integra todos los pasos anteriores:
