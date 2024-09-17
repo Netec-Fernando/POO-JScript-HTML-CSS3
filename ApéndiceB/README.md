@@ -111,10 +111,12 @@ Paso 6. Crear este archivo que contiene la plantilla HTML que define la vista de
 
     Utilizamos interpolación ({{ mensaje }}) para mostrar el valor de la propiedad mensaje en la plantilla. Angular actualizará
     automáticamente la vista si el valor de mensaje cambia.
-    
+
+```
     Modificar el archivo greeting.component.css (opcional):
 
     Puedes agregar estilos básicos para mejorar la apariencia del componente.
+```
 
 ### CSS
 ```
