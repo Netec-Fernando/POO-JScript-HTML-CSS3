@@ -131,8 +131,8 @@ h1 {
 
 Paso 7. Incluir el Componente en el Módulo Principal.
 
-    Para usar el componente en nuestra aplicación, debemos asegurarnos de que esté declarado en un módulo de Angular. Generalmente
-    esto se hace en el módulo raíz de la aplicación (AppModule).
+    Para usar el componente en nuestra aplicación, debemos asegurarnos de que esté declarado en un módulo de Angular. 
+    Generalmente esto se hace en el módulo raíz de la aplicación (AppModule).
 
     Abrir el archivo app.module.ts:
     Este archivo está en el directorio src/app/.
@@ -181,7 +181,8 @@ Paso 8. Usar el Componente en la Aplicación
 
     Explicación:
 
-    Usamos el selector app-greeting definido en GreetingComponent para incluir el componente de saludo dentro de la plantilla principal.
+    Usamos el selector app-greeting definido en GreetingComponent para incluir el componente de saludo dentro de la plantilla
+    principal.
 
 Paso 9: Ejecutar la Aplicación.
 
@@ -191,8 +192,8 @@ Paso 9: Ejecutar la Aplicación.
 
     ng serve
 
-    Este comando compilará el proyecto y lo servirá en un servidor de desarrollo. De forma predeterminada, la aplicación estará disponible
-    en http://localhost:4200/.
+    Este comando compilará el proyecto y lo servirá en un servidor de desarrollo. De forma predeterminada, la aplicación estará
+    disponible en http://localhost:4200/.
 
     Abrir un navegador web y navegar a http://localhost:4200/:
 
