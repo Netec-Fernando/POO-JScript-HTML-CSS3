@@ -63,10 +63,13 @@ Paso 4. Crear un Nuevo Componente
 Paso 5.Configurar el Componente.
     Vamos a modificar el componente para que muestre un mensaje de saludo.
 
+    Abra el VSC en el directorio actual con 
+    
+    code .
+
     Modificar el archivo greeting.component.ts:
 
-    Este archivo contiene la clase del componente. 
-    Modificaremos la clase para incluir una propiedad que contenga el mensaje de saludo.
+    Este archivo contiene la clase del componente. Modificaremos la clase para incluir una propiedad que contenga el mensaje de saludo.
 
 ### Angular
 ```
