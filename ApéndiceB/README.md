@@ -8,7 +8,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Objetivo Visual 
 
-![diagrama1](../images/img1.png)
+![imagen](../imagenes/apendiceB/componentes.png)
 
 ## Duración aproximada:
 - 60 minutos.
