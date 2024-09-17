@@ -62,6 +62,7 @@ Paso 3: Escribir el Código JavaScript para la Solicitud HTTP.
 ### JavaScript
 ```
 // Paso 1: Definir la URL de la API desde donde vamos a obtener los datos
+
 const url = 'https://jsonplaceholder.typicode.com/users';
 
 // Paso 2: Usar fetch() para hacer una solicitud HTTP GET a la URL
@@ -94,8 +95,10 @@ fetch(url)
     Definir la URL de la API:
 
     const url = 'https://jsonplaceholder.typicode.com/users';
-    Aquí, estamos definiendo una variable url que contiene la dirección de la API de donde vamos a obtener los datos. En este caso
-    es una lista de usuarios.
+    
+    Aquí, estamos definiendo una variable url que contiene la dirección de la API de donde vamos a obtener los datos. 
+    En este caso es una lista de usuarios.
+    
     Usar fetch() para hacer una solicitud HTTP GET a la URL:
 
     fetch(url) realiza una solicitud HTTP GET a la URL especificada, fetch() devuelve una promesa que se resuelve en un objeto 
@@ -104,24 +107,28 @@ fetch(url)
     Verificar si la respuesta es exitosa:
 
     if (!response.ok) { throw new Error('Error en la solicitud HTTP: ' + response.status); }
+    
     En este paso, verificamos si la respuesta fue exitosa comprobando la propiedad ok de la respuesta. Si no fue exitosa, lanzamos 
     un error con el código de estado de la respuesta.
 
     Convertir la respuesta en un objeto JSON:
 
     return response.json();
+    
     Si la respuesta fue exitosa, la convertimos en un objeto JSON usando el método .json(). Esto también devuelve una promesa que 
     se resuelve con los datos JSON.
 
     Manejar los datos obtenidos de la API:
 
     console.log('Datos de los usuarios:', data);
+    
     Aquí, mostramos en la consola los datos de los usuarios obtenidos de la API. También usamos un ciclo forEach para imprimir 
     los nombres de los usuarios individualmente.
 
     Manejar errores de la solicitud HTTP:
 
     .catch(error => { console.error('Hubo un problema con la solicitud:', error); });
+    
     Si ocurre algún error durante la solicitud (por ejemplo, si la red está desconectada o la URL no es válida), lo capturamos y
     mostramos en la consola.
 
