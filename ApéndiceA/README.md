@@ -31,6 +31,8 @@ Al finalizar la práctica, serás capaz de:
 ### Tarea 1. Crear clases Base y Derivadas en TypeScript.
 Paso 1. Definir la Clase Base
 
+    Cree y abra un archivo con VSC llamado "personal.ts" en el directorios actual.
+
     Primero, definiremos una clase base llamada Persona. Esta clase tendrá un constructor para inicializar los atributos básicos
     y un método para mostrar información.
 
@@ -204,6 +206,15 @@ empleado2.mostrarInformacion(); // Salida: Nombre: Carlos, Edad: 40
                                 //         Puesto: Gerente
 ```
 
+Paso 4: Transpilar y ejecutar el codigo del ejercicio.
+    
+    Ahora, transpilaremos con tsc y ejecutaremos el codigo con node.js
+    
+### Linea de comandos
+```
+tsc perspnal.ts
+node personal.js
+```
 ### Resultado esperado
 
     Salida: 
