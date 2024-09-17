@@ -29,7 +29,8 @@ Al finalizar la práctica, serás capaz de:
 
 Paso 1. Declaración de Variables
 
-    Primero, definimos algunas variables necesarias para nuestro programa. Utilizaremos una variable para almacenar el nombre de los estudiantes y otra para almacenar un arreglo de calificaciones.
+    Primero, definimos algunas variables necesarias para nuestro programa. Utilizaremos una variable para almacenar el nombre de 
+    los estudiantes y otra para almacenar un arreglo de calificaciones.
 
 ### JavaScript
 ```
@@ -43,7 +44,8 @@ let calificaciones = [7, 4, 8, 5]; // Arreglo con las calificaciones correspondi
 
     minAprobatoria es una variable que almacena la calificación mínima requerida para aprobar.
     estudiantes es un arreglo que contiene nombres de estudiantes.
-    calificaciones es un arreglo paralelo al de estudiantes, es decir, la calificación de Ana es 7, la de Luis es 4, y así sucesivamente.
+    calificaciones es un arreglo paralelo al de estudiantes, es decir, la calificación de Ana es 7, la de Luis es 4, y así 
+    sucesivamente.
 
 Paso 2. Definir el Ciclo para recorrer los estudiantes.
 
@@ -70,7 +72,8 @@ for (let i = 0; i < estudiantes.length; i++) {
 
     Utilizamos un ciclo for para recorrer todos los elementos del arreglo de estudiantes.
     En cada iteración, obtenemos el nombre y la calificación correspondiente usando estudiantes[i] y calificaciones[i].
-    Luego, usamos una sentencia if para verificar si la calificación es mayor o igual a minAprobatoria. Si es así, imprimimos que el estudiante ha aprobado. Si no, imprimimos que ha reprobado.
+    Luego, usamos una sentencia if para verificar si la calificación es mayor o igual a minAprobatoria. Si es así
+    imprimimos que el estudiante ha aprobado. Si no, imprimimos que ha reprobado.
 
 Paso 3: Crear una Función para agregar un nuevo estudiante y su calificación.
 
@@ -161,7 +164,8 @@ for (let i = 0; i < estudiantes.length; i++) {
     Explicación General
 
     El programa comienza declarando variables y arreglos para almacenar los datos de los estudiantes.
-    Utiliza un ciclo for para iterar sobre los estudiantes y sus calificaciones, usando una condición if para determinar si cada estudiante aprueba o no.
+    Utiliza un ciclo for para iterar sobre los estudiantes y sus calificaciones, usando una condición if para determinar 
+    si cada estudiante aprueba o no.
     
     Se define una función para agregar más estudiantes a la lista, lo que hace el programa extensible y flexible.
     Finalmente, el ciclo se ejecuta de nuevo para mostrar los resultados después de agregar un nuevo estudiante.
